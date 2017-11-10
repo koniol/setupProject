@@ -6,6 +6,7 @@ touch index.js
 touch .gitignore
 
 echo ".gitignore" >> .gitignore
+npm init -y
 
 git init
 git add -A
