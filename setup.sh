@@ -11,3 +11,5 @@ npm init -y
 git init
 git add -A
 git commit -m "Initalize project $1"
+
+
